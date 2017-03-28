@@ -1,6 +1,6 @@
 ### Unternehmensberatung Winter UG (haftungsbeschränkt)
 
-Die Unternehmensberatung Winter UG (haftungsbeschränkt) ist eine Sondervariante der GmbH. Die Unternehmergesellschaft (UG) stellt keine eigene Gesellschaftsform neben der GmbH dar, sondern ist als besondere Einstiegsvariante im Rahmen der GmbH ausgestaltet. Zur Gründung der UG reicht bereits ein Mindeststammkapital von einem Euro. Für die beschränkte Haftpflicht ist als Gegenpart die Bildung von Rücklagen gesetzlich vorgeschrieben. Dafür müssen mindestens 25% des Jahresgewinns als Eigenkapitalrücklage zurückgelegt werden.
+Eine Unternehmergesellschaft (UG) ist eine Sondervariante der GmbH. Sie stellt keine eigene Gesellschaftsform neben der GmbH dar, sondern ist als besondere Einstiegsvariante im Rahmen der GmbH ausgestaltet. Zur Gründung der UG reicht bereits ein Mindeststammkapital von einem Euro. Für die beschränkte Haftpflicht ist als Gegenpart die Bildung von Rücklagen gesetzlich vorgeschrieben. Dafür müssen mindestens 25% des Jahresgewinns als Eigenkapitalrücklage zurückgelegt werden.
 
 ## Welcome to GitHub Pages
 
