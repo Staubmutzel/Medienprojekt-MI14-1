@@ -28,6 +28,7 @@ Für die Analyse, Beratung und Präsentation wird:
 *	eine spezifische Software zur Darstellung eines zeitlichen, organisatorischen und finanziellen Ist-/Sollzustandes
 * Excel
 *	PowerPoint
+
 genutzt bzw. eingesetzt.
 
 ##### Pflichtenheft
