@@ -11,10 +11,12 @@ Eine Unternehmergesellschaft (UG) ist eine Sondervariante der GmbH. Sie stellt k
 * Prüfung Finanzplanung
 * Prüfung Angebotskalkulation
 
-### Erstellung einer Unternehmensstruktur
+##### Unternehmensstruktur
 
 * Einzelunternehmerin
 * Geschäftsführerin/Gesellschafterin/Projektleiterin in einer Person
+
+##### Wie teuer ist mein Unternehmen?
 
 ### Bearbeitung des Projektes
 
@@ -30,11 +32,50 @@ genutzt bzw. eingesetzt.
 
 ##### Pflichtenheft
 
-##### Kostenkalkulation
-
 ##### Zeitaufwand
 
+Datum | Dauer | Ort  | Aufgabe
+------------ | ------------- | ------------- | -------------
+22.03. | 2h | BA DD  | Firmengründung 
+23.03. |  |  | 
+24.03. |  |  | 
+25.03. |  |  | 
+26.03. |  |  | 
+27.03. |  |  | 
+28.03. |  |  | 
+29.03. |  |  | 
+30.03. |  |  | 
+31.03. |  |  | 
+01.04. |  |  | 
+02.04. |  |  | 
+03.04. |  |  | 
+04.04. |  |  | 
+05.04. |  |  | 
+06.04. |  |  | 
+07.04. |  |  | 
+08.04. |  |  | 
+09.04. |  |  | 
+10.04. |  |  | 
+11.04. |  |  | 
+12.04. |  | BA DD | Präsentation
+
 ##### Umsetzung der Aufgabenstellung
+
+##### Abschlussdokumenation
+
+### Kundenkommunikation
+
+##### Kostenkalkulation für Beratungstätigkeit
+
+##### reales Angebot mit Firmenbriefkopf
+
+
+
+
+
+
+
+
 
 
 
