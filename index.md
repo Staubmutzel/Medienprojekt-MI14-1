@@ -62,7 +62,7 @@ Datum | Dauer | Ort  | Aufgabe
 
 ##### Umsetzung der Aufgabenstellung
 
-##### Abschlussdokumenation
+##### Abschlussdokumentation
 
 ### Kundenkommunikation
 
