@@ -1,4 +1,4 @@
-### Gründung eines virtuellen Unternehmens
+## Gründung eines virtuellen Unternehmens
 
 #### Unternehmensberatung Winter UG (haftungsbeschränkt)
 
@@ -11,12 +11,12 @@ Eine Unternehmergesellschaft (UG) ist eine Sondervariante der GmbH. Sie stellt k
 * Prüfung Finanzplanung
 * Prüfung Angebotskalkulation
 
-### Erstellung einer Unternehmensstruktur
+## Erstellung einer Unternehmensstruktur
 
 * Einzelunternehmerin
 * Geschäftsführerin/Gesellschafterin/Projektleiterin in einer Person
 
-### Bearbeitung des Projektes
+## Bearbeitung des Projektes
 
 #### Aufgabenstellung
 
