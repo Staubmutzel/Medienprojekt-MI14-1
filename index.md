@@ -54,12 +54,12 @@ Datum | Dauer | Ort  | Aufgabe
 03.04. |  |  | 
 04.04. |  |  | 
 05.04. |  |  | 
-06.04. |  |  | 
+06.04. | 4h | home | Pflichtenheft 
 07.04. |  |  | 
 08.04. |  |  | 
 09.04. |  |  | 
 10.04. |  |  | 
-11.04. |  |  | 
+11.04. |  | BA DD | Vorab-Präsentation
 12.04. |  | BA DD | Präsentation
 
 ##### Umsetzung der Aufgabenstellung
