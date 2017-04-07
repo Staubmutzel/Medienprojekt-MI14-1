@@ -36,7 +36,7 @@ genutzt bzw. eingesetzt.
 
 [ansehen](https://github.com/Staubmutzel/Medienprojekt-MI14-1/blob/master/Pflichtenheft.pdf)
 
-[neu]https://staubmutzel.github.io/Medienprojekt-MI14-1/Pflichtenheft.pdf)
+[neu](https://staubmutzel.github.io/Medienprojekt-MI14-1/Pflichtenheft.pdf)
 Medienprojekt-MI14-1/Pflichtenheft.pdf
 [test2](https://rlech.github.io/Medienprojekt-MI14-1/blob/master/Pflichtenheft.pdf)
 
