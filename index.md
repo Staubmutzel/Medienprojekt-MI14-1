@@ -4,6 +4,8 @@
 
 Eine Unternehmergesellschaft (UG) ist eine Sondervariante der GmbH. Sie stellt keine eigene Gesellschaftsform neben der GmbH dar, sondern ist als besondere Einstiegsvariante im Rahmen der GmbH ausgestaltet. Zur Gründung der UG reicht bereits ein Mindeststammkapital von einem Euro. Für die beschränkte Haftpflicht ist als Gegenpart die Bildung von Rücklagen gesetzlich vorgeschrieben. Dafür müssen mindestens 25% des Jahresgewinns als Eigenkapitalrücklage zurückgelegt werden. Diese laufende Erhöhung des Eigenkapitals soll die Gläubiger trotz der bestehenden Haftungsbeschränkung auf das Gesellschaftsvermögen weitestgehend absichern.
 
+![Image](https://staubmutzel.github.io/Medienprojekt-MI14-1/test.png)
+
 ##### Leistunsportfolio des Beratungsunternehmen
 
 * Analyse und Bewertung Unternehmensstruktur
