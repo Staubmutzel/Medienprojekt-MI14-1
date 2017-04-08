@@ -43,25 +43,19 @@ Datum | Dauer | Ort  | Aufgabe
 ------------ | ------------- | ------------- | -------------
 22.03. | 2h | BA DD  | Firmengründung  
 25.03. | 4h | home | Pflichtenheft
-26.03. | 1h | home | Finanzierung des Unternehmens
- | 2h | home | Angebot erstellen
-27.03. |  |  | 
-28.03. |  |  | 
-29.03. |  |  | 
-30.03. |  |  | 
-31.03. |  |  | 
-01.04. |  |  | 
-02.04. |  |  | 
-03.04. |  |  | 
-04.04. |  |  | 
-05.04. |  |  | 
-06.04. |  |  |  
-07.04. |  |  | 
-08.04. |  |  | 
-09.04. |  |  | 
+26.03. | 3h | home | Finanzierung des Unternehmens, Angebot erstellen
+27.03. |  | home | 
+31.03. |  | home | 
+02.04. |  | home | 
+03.04. |  | home | 
+07.04. |  | BA DD und home | 
+08.04. |  | home | 
+09.04. |  | home | 
 10.04. |  |  | 
 11.04. |  | BA DD | Vorab-Präsentation
 12.04. |  | BA DD | Präsentation
+gesamt | h |  | 
+
 
 ##### Umsetzung der Aufgabenstellung
 
