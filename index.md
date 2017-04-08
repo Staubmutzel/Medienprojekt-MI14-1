@@ -41,11 +41,10 @@ genutzt bzw. eingesetzt.
 
 Datum | Dauer | Ort  | Aufgabe
 ------------ | ------------- | ------------- | -------------
-22.03. | 2h | BA DD  | Firmengründung 
-23.03. |  |  | 
-24.03. |  |  | 
-25.03. |  |  | 
-26.03. |  |  | 
+22.03. | 2h | BA DD  | Firmengründung  
+25.03. | 4h | home | Pflichtenheft
+26.03. | 1h | home | Finanzierung des Unternehmens
+ | 2h | home | Angebot erstellen
 27.03. |  |  | 
 28.03. |  |  | 
 29.03. |  |  | 
@@ -56,7 +55,7 @@ Datum | Dauer | Ort  | Aufgabe
 03.04. |  |  | 
 04.04. |  |  | 
 05.04. |  |  | 
-06.04. | 4h | home | Pflichtenheft 
+06.04. |  |  |  
 07.04. |  |  | 
 08.04. |  |  | 
 09.04. |  |  | 
