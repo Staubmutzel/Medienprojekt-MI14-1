@@ -18,6 +18,8 @@ Eine Unternehmergesellschaft (UG) ist eine Sondervariante der GmbH. Sie stellt k
 
 ##### Wie teuer ist mein Unternehmen?
 
+[ansehen](https://staubmutzel.github.io/Medienprojekt-MI14-1/Kalkulation.pdf)
+
 ### Bearbeitung des Projektes
 
 ##### Aufgabenstellung
