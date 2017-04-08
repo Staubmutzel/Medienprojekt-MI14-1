@@ -41,9 +41,9 @@ genutzt bzw. eingesetzt.
 
 Datum | Dauer | Ort  | Aufgabe
 ------------ | ------------- | ------------- | -------------
-22.03. | 2h | BA DD  | Firmengründung  
+22.03. | 3h | BA DD  | Firmengründung  
 25.03. | 4h | home | Pflichtenheft
-26.03. | 3h | home | Finanzplan und Angebot erstellen
+26.03. | 6h | home | Finanzplan und Angebot erstellen
 27.03. |  | home | 
 31.03. |  | home | 
 02.04. |  | home | 
@@ -54,8 +54,7 @@ Datum | Dauer | Ort  | Aufgabe
 10.04. |  |  | 
 11.04. |  | BA DD | Vorab-Präsentation
 12.04. |  | BA DD | Präsentation
-gesamt | h |  | 
-
+gesamt | h |  |
 
 ##### Umsetzung der Aufgabenstellung
 
