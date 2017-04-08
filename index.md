@@ -70,6 +70,8 @@ Datum | Dauer | Ort  | Aufgabe
 
 ### Kundenkommunikation
 
+[ansehen](https://staubmutzel.github.io/Medienprojekt-MI14-1/Angebot.pdf)
+
 ##### Kostenkalkulation für Beratungstätigkeit
 
 ##### reales Angebot mit Firmenbriefkopf
