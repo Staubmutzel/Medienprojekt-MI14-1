@@ -44,13 +44,13 @@ genutzt bzw. eingesetzt.
 Datum | Dauer | Ort  | Aufgabe
 ------------ | ------------- | ------------- | -------------
 22.03. | 1h | BA DD  | Einsicht andere Firmengruppen
-22.03. | 3h | BA DD  | Firmengründung  
+ | 3h | BA DD  | Firmengründung  
 25.03. | 4h | home | Pflichtenheft
 26.03. | 3h | home | Finanzplan
  | 3h | home | Angebot
 27.03. |  | home |
 28.03. | 1h | BA DD | Zuarbeit Dokumente
-28.03. | 3h | BA DD | Projektseite
+ | 3h | BA DD | Projektseite
 31.03. |  | home | 
 02.04. |  | home | 
 03.04. |  | home | 
