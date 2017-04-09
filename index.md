@@ -53,7 +53,7 @@ Datum | Dauer | Ort  | Aufgabe
 07.04. |  | BA DD und home | 
 08.04. |  | home | 
 09.04. |  | home | 
-10.04. |  |  | 
+10.04. |  | home | 
 11.04. |  | BA DD | Vorab-Präsentation
 12.04. |  | BA DD | Präsentation
 gesamt | h |  |
