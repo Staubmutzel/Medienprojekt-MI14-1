@@ -65,6 +65,22 @@ gesamt |  |  |
 
 ##### Abschlussdokumentation
 
+###### Erstellte PDF-Dokumente
+
+*	Unternehmensgründung
+* Aufstellung der Unternehmenskosten
+*	Pflichtenheft
+* Kostenkalkulation für Beratungstätigkeit - Stundensatz
+*	Angebot	zur	„Existenz(gründungs)beratung“
+*	Präsentation
+
+###### Dokumentation auf CD
+
+*	PDF-Dokumente auf CD brennen und abgeben
+* Selbsteinschätzung
+*	Anwesenheitsliste
+*	Videomitschnitt
+
 ### Kundenkommunikation
 
 ##### Kostenkalkulation für Beratungstätigkeit
