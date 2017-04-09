@@ -56,7 +56,7 @@ Datum | Dauer | Ort  | Aufgabe
 10.04. |  | home | 
 11.04. |  | BA DD | Vorab-Präsentation
 12.04. |  | BA DD | Präsentation
-gesamt | h |  |
+gesamt |  |  |
 
 ##### Umsetzung der Aufgabenstellung
 
