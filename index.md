@@ -66,6 +66,8 @@ gesamt | h |  |
 
 ##### Kostenkalkulation für Beratungstätigkeit
 
+[ansehen](https://staubmutzel.github.io/Medienprojekt-MI14-1/Beratungskosten.pdf)
+
 ##### Angebot auf Geschäftspapier
 
 [ansehen](https://staubmutzel.github.io/Medienprojekt-MI14-1/Angebot.pdf)
