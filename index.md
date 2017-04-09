@@ -74,7 +74,7 @@ gesamt |  |  |
 *	Angebot	zur	„Existenz(gründungs)beratung“
 *	Präsentation
 
-###### Dokumentation auf CD
+<strong>Dokumentation auf CD</strong>
 
 *	PDF-Dokumente auf CD brennen und abgeben
 * Selbsteinschätzung
