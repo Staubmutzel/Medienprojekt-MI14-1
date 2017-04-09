@@ -65,7 +65,7 @@ gesamt |  |  |
 
 ##### Abschlussdokumentation
 
-###### Erstellte PDF-Dokumente
+<strong>Erstellte PDF-Dokumente</strong>
 
 *	Unternehmensgründung
 * Aufstellung der Unternehmenskosten
