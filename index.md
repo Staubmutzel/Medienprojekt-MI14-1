@@ -41,26 +41,26 @@ genutzt bzw. eingesetzt.
 
 ##### Zeitaufwand
 
-Datum | Dauer | Ort  | Aufgabe
------------- | ------------- | ------------- | -------------
-22.03. | 1h | BA DD  | Einsicht andere Firmengruppen
- | 3h | BA DD  | Firmengründung  
-25.03. | 4h | home | Pflichtenheft
-26.03. | 3h | home | Finanzplan
- | 3h | home | Angebot
-27.03. |  | home |
-28.03. | 1h | BA DD | Zuarbeit Dokumente
- | 3h | BA DD | Projektseite
-31.03. |  | home | 
-02.04. |  | home | 
-03.04. |  | home | 
-07.04. |  | BA DD und home | 
-08.04. | 3h | home | Zuarbeit Dokumente
-09.04. | 1h | home | Zuarbeit Dokumente
-10.04. |  | home | 
-11.04. |  | BA DD | Vorab-Präsentation
-12.04. |  | BA DD | Präsentation
-gesamt |  |  |
+Datum | Dauer | Aufgabe
+------------ | ------------- | -------------
+22.03. | 1h | Einsicht andere Firmengruppen
+ | 3h | Firmengründung  
+25.03. | 4h | Pflichtenheft
+26.03. | 3h | Finanzplan
+ | 3h | Angebot
+27.03. |  |
+28.03. | 1h | Zuarbeit Dokumente
+ | 3h | Projektseite
+31.03. |  | 
+02.04. |  | 
+03.04. |  | 
+07.04. |  | 
+08.04. | 3h | Zuarbeit Dokumente
+09.04. | 1h | Zuarbeit Dokumente
+10.04. |  | 
+11.04. |  | Vorab-Präsentation
+12.04. |  | Präsentation
+gesamt |  |
 
 ##### Umsetzung der Aufgabenstellung
 
