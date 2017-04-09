@@ -43,17 +43,19 @@ genutzt bzw. eingesetzt.
 
 Datum | Dauer | Ort  | Aufgabe
 ------------ | ------------- | ------------- | -------------
+22.03. | 1h | BA DD  | Einsicht Firmen der anderen Gruppen
 22.03. | 3h | BA DD  | Firmengründung  
-25.03. | 4h | home | Pflichtenheft erstellt
-26.03. | 3h | home | Finanzplan erstellt
- | 3h | home | Angebot erstellt
-27.03. |  | home | 
+25.03. | 4h | home | Pflichtenheft
+26.03. | 3h | home | Finanzplan
+ | 3h | home | Angebot
+27.03. |  | home |
+28.03. | 1h | BA DD | Zuarbeit Dokumente
 31.03. |  | home | 
 02.04. |  | home | 
 03.04. |  | home | 
 07.04. |  | BA DD und home | 
 08.04. |  | home | 
-09.04. |  | home | 
+09.04. |  | home | Zuarbeit Dokumente
 10.04. |  | home | 
 11.04. |  | BA DD | Vorab-Präsentation
 12.04. |  | BA DD | Präsentation
