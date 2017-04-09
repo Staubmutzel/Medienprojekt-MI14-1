@@ -63,7 +63,7 @@ gesamt |  |  |
 
 ##### Umsetzung der Aufgabenstellung
 
-Zunächst habe ich mir einen Überblick über die vier anderen Firmengruppen 
+Zunächst habe ich mir einen Überblick über die vier anderen Firmengruppen verschafft. Über deren Unternehmensformen und -strukturen und die aktuellen Projekte mit zugehöriger Projektplanung. Dem folgte die Einforderung notwendiger Unterlagen. Das waren für jede Firmengrupe separat das Pflichtenheft, der zeitliche Projektablaufplan, die Aufstellung der Unternehmenskosten und das Angebot zum jweiligen zu vermarktenden Produkt.
 
 ##### Abschlussdokumentation
 
