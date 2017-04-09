@@ -93,3 +93,12 @@ Zunächst habe ich mir einen Überblick über die vier Firmengruppen verschafft,
 ##### Angebot auf Geschäftspapier
 
 [ansehen](https://staubmutzel.github.io/Medienprojekt-MI14-1/Angebot.pdf)
+
+### Projektanalyse
+
+*	Probleme - kritische Betrachtung - Lösungsansätze
+*	Kommunikationsschwierigkeiten
+*	Zeitmanagement
+*	Kostenmanagement
+*	Projektsteuerung/Planung - Idee - Realität - Erkenntnisgewinn
+
