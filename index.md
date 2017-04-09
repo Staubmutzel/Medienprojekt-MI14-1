@@ -63,6 +63,8 @@ gesamt |  |  |
 
 ##### Umsetzung der Aufgabenstellung
 
+Zunächst habe ich mir einen Überblick über die vier anderen Firmengruppen 
+
 ##### Abschlussdokumentation
 
 <strong>PDF-Dokumente erstellen</strong>
