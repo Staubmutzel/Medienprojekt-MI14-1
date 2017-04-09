@@ -65,7 +65,7 @@ gesamt |  |  |
 
 ##### Abschlussdokumentation
 
-<strong>Erstellte PDF-Dokumente</strong>
+<strong>PDF-Dokumente erstellen</strong>
 
 *	Unternehmensgründung
 * Aufstellung der Unternehmenskosten
@@ -74,7 +74,7 @@ gesamt |  |  |
 *	Angebot	zur	„Existenz(gründungs)beratung“
 *	Präsentation
 
-<strong>Dokumentation auf CD</strong>
+<strong>Zuarbeit an Herrn Hartmann</strong>
 
 *	PDF-Dokumente auf CD brennen und abgeben
 * Selbsteinschätzung
