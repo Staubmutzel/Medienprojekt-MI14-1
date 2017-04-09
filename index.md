@@ -50,6 +50,7 @@ Datum | Dauer | Ort  | Aufgabe
  | 3h | home | Angebot
 27.03. |  | home |
 28.03. | 1h | BA DD | Zuarbeit Dokumente
+28.03. | 3h | BA DD | Projektseite
 31.03. |  | home | 
 02.04. |  | home | 
 03.04. |  | home | 
@@ -63,7 +64,7 @@ gesamt |  |  |
 
 ##### Umsetzung der Aufgabenstellung
 
-Zunächst habe ich mir einen Überblick über die vier anderen Firmengruppen verschafft. Über deren Unternehmensformen und -strukturen und die aktuellen Projekte mit zugehöriger Projektplanung. Dem folgte die Einforderung notwendiger Unterlagen. Das waren für jede Firmengrupe separat das Pflichtenheft, der zeitliche Projektablaufplan, die Aufstellung der Unternehmenskosten und das Angebot zum jweiligen zu vermarktenden Produkt.
+Zunächst habe ich mir einen Überblick über die vier Firmengruppen verschafft, welche ich analysieren und bewerten sollte. Über deren Unternehmensformen und -strukturen und die aktuellen Projekte mit zugehöriger Projektplanung. Dem folgte die Einforderung notwendiger Unterlagen. Das waren für jede Firmengrupe separat das Pflichtenheft, der zeitliche Projektablaufplan, die Aufstellung der Unternehmenskosten und das Angebot zum jeweiligen zu vermarktenden Produkt.
 
 ##### Abschlussdokumentation
 
